@@ -1,0 +1,8 @@
+torch>=2.0
+torchaudio>=2.0
+transformers>=4.30
+soundfile
+librosa
+jiwer
+matplotlib
+numpy
